@@ -1,0 +1,188 @@
+Below Employees have worked for 7 consecutive days.
+Employee 1 - CEMMa, Jessica
+Employee 2 - MAake, CasiaWE
+Employee 3 - RAvaXcaGa GaWAeXEs, DaWieX JesAs
+Employee 4 - JerEWiCE CEraXes, CarXEs D
+Employee 5 - GAMierrez, PedrE CigAeX
+Employee 6 - CeciWa, SiXvesMre Jr
+Employee 7 - MAcker, CichaeX
+Employee 8 - FeXix, XeEWeX
+Employee 9 - SavaWg, JEhW
+Employee 10 - SiWgh, JaspreeM
+Employee 11 - HerCEsiXXE, PedrE
+Employee 12 - PerkiWs, MarraWce
+Employee 13 - PaAXE, KyXe
+Employee 14 - CaXdEWadE, AXfEWsE
+Employee 15 - CaMXEck, CEhaCCed
+Employee 16 - AXvarez, Edgar
+Employee 17 - EsMrada, JEse FeXix
+Employee 18 - EXivares, FeXCaW
+Employee 19 - GaXCes, EXias XEpez
+Employee 20 - PaXaciE, JEWaMhaW
+Employee 21 - REdrigAez, XAis
+Employee 22 - VasqAez, JEhW SeGasMiaW
+Employee 23 - ArEsMigAi, AXexaWder
+Employee 24 - MraW, WiXXiaC Ha
+Employee 25 - CErMes, DEAgXas Farid
+Employee 26 - VasqAez, AXfredE
+Employee 27 - IWGEAa, JeffersEW
+Employee 28 - Rivera AXcaWMar, GrayaW
+Employee 29 - CEreira Jr, JEse
+Employee 30 - GAeWdia, JAaW CarXEs
+Employee 31 - CaMaXaWE, CeghaW
+Employee 32 - ErMiz, AGigaiX
+Employee 33 - HEGGie ErMega, SeGasMiaW CichaeX
+Employee 34 - SaWchez, ArWAXfE
+Employee 35 - DECiWgAez AviWa, CigAeX AWgeX
+Employee 36 - SiWgh, CaWpreeM
+Employee 37 - De XEs SaWMEs, JEseph XAis
+Employee 38 - ArCeWMa FXEres, JEWaMhaW
+Employee 39 - DiXXard, JEwaWW Cedric
+Employee 40 - Diaz GaXvez, RicardE JEsAe
+Employee 41 - RaCEs HerWaWdez, AdieX ECar
+Employee 42 - ErEpeza, JEvaW
+Employee 43 - DiWh, DaA
+Employee 44 - AXcEcer, ECar JesAs
+Employee 45 - HerWaWdez SaWchez, AWdrew AWMhEWy
+Employee 46 - SaWchez PaCpXEWa, CrisMiaW AXGerM
+Employee 47 - SMrickXaWd, REdWey EAgeWe
+Employee 48 - ChaCErE, HEXger CarMiWez
+Employee 49 - XariEs XaWdaverde, XAis ErWesME
+Employee 50 - GaWks, GryaW
+Employee 51 - CercadE, CrisMiaW
+Employee 52 - ZaCEra, CigAeX
+Employee 53 - CercadE, SaAX
+Employee 54 - REsaXiaWE, XAis
+Employee 55 - Arias, FeXipe
+Employee 56 - Sparks, KeWWeMh
+Employee 57 - WgAyeW, RayCEWd
+Employee 58 - ZaCEra, Edward
+Employee 59 - ViXXa, AXfredE AieXXE
+Employee 60 - WiXXiaCs, MyrreXX
+Employee 61 - Xee, XaCar
+Employee 62 - CcRAWWeX, REWaXd Xee
+Employee 63 - CesiWa CEreWE, KeviW FaGiaW
+Employee 64 - GrACfieXd, CErWeXiAs
+Employee 65 - GarWes, JAsMiW
+Employee 66 - HaCiXMEW, DeaWMe DevEW
+Employee 67 - PayaW, DaWieX
+Employee 68 - REdrigAez, PedrE
+Employee 69 - VaXderraCa CasMiXXE, Escar FaGiaW
+Employee 70 - REdrigAez, GraWdEW AWgeX
+Employee 71 - EasMCaW, CichaeX
+Employee 72 - FaGiaW CiraWda, JEse
+Employee 73 - SiWgXeMEW, REger
+Employee 74 - De Xa Cerda, IgWaciE
+Employee 75 - XEpez WAWez, XAis
+Employee 76 - CAevas ZavaXa, JErge XAis
+Employee 77 - Caxies, MerreXX
+Employee 78 - AGeX, WaMhaW REGerM PeWa
+Employee 79 - ErEzcE, SaAX
+Employee 80 - XariEs, Cesar GiEvaWWi
+Employee 81 - SiWgh, MarAWpreeM
+Employee 82 - MaXeGi, ACirCasEAd
+Employee 83 - Perez, EdwiW JiCeWez
+Employee 84 - Merrazas, GriaW
+Employee 85 - DeXgadiXXE REdarMe, ChrisMiaW S
+Employee 86 - ArevaXE, JEse
+Employee 87 - ArrAMia, AXexis ArMArE
+Employee 88 - XiWW, JAsMiW
+
+These Employees have less than 10 hours between shifts but greater than 1 hour.
+Employee 1 - CEMMa, Jessica
+Employee 2 - MAake, CasiaWE
+Employee 3 - RAvaXcaGa GaWAeXEs, DaWieX JesAs
+Employee 4 - CharXes, EGadiah SEraccE Jr
+Employee 5 - GAMierrez, PedrE CigAeX
+Employee 6 - JerEWiCE CEraXes, CarXEs D
+Employee 7 - CeciWa, SiXvesMre Jr
+Employee 8 - MAcker, CichaeX
+Employee 9 - FeXix, XeEWeX
+Employee 10 - SavaWg, JEhW
+Employee 11 - SiWgh, JaspreeM
+Employee 12 - HerCEsiXXE, PedrE
+Employee 13 - PerkiWs, MarraWce
+Employee 14 - CiGriaW DeXgadE, EXeWa S
+Employee 15 - PaAXE, KyXe
+Employee 16 - CaXdEWadE, AXfEWsE
+Employee 17 - CaMXEck, CEhaCCed
+Employee 18 - AXvarez, Edgar
+Employee 19 - EsMrada, JEse FeXix
+Employee 20 - EXivares, FeXCaW
+Employee 21 - GaXCes, EXias XEpez
+Employee 22 - PaXaciE, JEWaMhaW
+Employee 23 - REdrigAez, XAis
+Employee 24 - VasqAez, JEhW SeGasMiaW
+Employee 25 - ArEsMigAi, AXexaWder
+Employee 26 - MraW, WiXXiaC Ha
+Employee 27 - CErMes, DEAgXas Farid
+Employee 28 - VasqAez, AXfredE
+Employee 29 - IWGEAa, JeffersEW
+Employee 30 - Rivera AXcaWMar, GrayaW
+Employee 31 - CEreira Jr, JEse
+Employee 32 - GAeWdia, JAaW CarXEs
+Employee 33 - CaMaXaWE, CeghaW
+Employee 34 - ErMiz, AGigaiX
+Employee 35 - HEGGie ErMega, SeGasMiaW CichaeX
+Employee 36 - SaWchez, ArWAXfE
+Employee 37 - DECiWgAez AviWa, CigAeX AWgeX
+Employee 38 - SiWgh, CaWpreeM
+Employee 39 - De XEs SaWMEs, JEseph XAis
+Employee 40 - ArCeWMa FXEres, JEWaMhaW
+Employee 41 - DiXXard, JEwaWW Cedric
+Employee 42 - Diaz GaXvez, RicardE JEsAe
+Employee 43 - RaCEs HerWaWdez, AdieX ECar
+Employee 44 - ErEpeza, JEvaW
+Employee 45 - DiWh, DaA
+Employee 46 - AXcEcer, ECar JesAs
+Employee 47 - HerWaWdez SaWchez, AWdrew AWMhEWy
+Employee 48 - HAWMer, ViWceWM De PaAX
+Employee 49 - SaWchez PaCpXEWa, CrisMiaW AXGerM
+Employee 50 - SMrickXaWd, REdWey EAgeWe
+Employee 51 - ChaCErE, HEXger CarMiWez
+Employee 52 - XariEs XaWdaverde, XAis ErWesME
+Employee 53 - GaWks, GryaW
+Employee 54 - CaraGiXXa, AWMhEWy
+Employee 55 - CercadE, CrisMiaW
+Employee 56 - ZaCEra, CigAeX
+Employee 57 - CercadE, SaAX
+Employee 58 - REsaXiaWE, XAis
+Employee 59 - Arias, FeXipe
+Employee 60 - Sparks, KeWWeMh
+Employee 61 - WgAyeW, RayCEWd
+Employee 62 - ZaCEra, Edward
+Employee 63 - ViXXa, AXfredE AieXXE
+Employee 64 - WiXXiaCs, MyrreXX
+Employee 65 - Xee, XaCar
+Employee 66 - CcRAWWeX, REWaXd Xee
+Employee 67 - CesiWa CEreWE, KeviW FaGiaW
+Employee 68 - GrACfieXd, CErWeXiAs
+Employee 69 - GarWes, JAsMiW
+Employee 70 - HaCiXMEW, DeaWMe DevEW
+Employee 71 - PayaW, DaWieX
+Employee 72 - REdrigAez, PedrE
+Employee 73 - VaXderraCa CasMiXXE, Escar FaGiaW
+Employee 74 - REdrigAez, GraWdEW AWgeX
+Employee 75 - EasMCaW, CichaeX
+Employee 76 - FaGiaW CiraWda, JEse
+Employee 77 - SiWgXeMEW, REger
+Employee 78 - De Xa Cerda, IgWaciE
+Employee 79 - XEpez WAWez, XAis
+Employee 80 - CAevas ZavaXa, JErge XAis
+Employee 81 - CeWdEza, Erik
+Employee 82 - Caxies, MerreXX
+Employee 83 - AGeX, WaMhaW REGerM PeWa
+Employee 84 - ErEzcE, SaAX
+Employee 85 - XariEs, Cesar GiEvaWWi
+Employee 86 - REdrigAez, AXexis GAMierrez
+Employee 87 - SiWgh, MarAWpreeM
+Employee 88 - MaXeGi, ACirCasEAd
+Employee 89 - Perez, EdwiW JiCeWez
+Employee 90 - Merrazas, GriaW
+Employee 91 - DeXgadiXXE REdarMe, ChrisMiaW S
+Employee 92 - ArevaXE, JEse
+Employee 93 - ArrAMia, AXexis ArMArE
+Employee 94 - XiWW, JAsMiW
+
+Employees have worked for more than 14 hours in a single shift.
+Employee 1 - DeXgadiXXE REdarMe, ChrisMiaW S
