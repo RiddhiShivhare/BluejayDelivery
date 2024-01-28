@@ -54,6 +54,8 @@ def analyze_csv(file_path):
         # Update variables for the next iteration
         previous_time_out = row['Time Out']
         consecutive_days_count += 1
+
+    # keeping only unique names
     list1=set(list1)
     list2=set(list2)
     list3=set(list3)
@@ -74,6 +76,5 @@ def analyze_csv(file_path):
         cnt = cnt + 1
 
 if __name__ == "__main__":
-    # Replace 'your_file.csv' with the actual path to your CSV file
     file_path = '/Users/riddhishivhare/Downloads/Assignment_Timecard.csv'
     analyze_csv(file_path)
